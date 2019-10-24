@@ -4,4 +4,4 @@ A simple test.
 
 ##Link to my live map
 
-https://AgathaFodorean.github.io/Repository-test-1
+https://agathafodorean.github.io/Repository-Test-1/
