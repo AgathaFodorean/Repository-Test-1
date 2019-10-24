@@ -2,6 +2,6 @@
 
 A simple test.
 
-##Link to mu live map
+##Link to my live map
 
 https://AgathaFodorean.github.io/Repository-test-1
