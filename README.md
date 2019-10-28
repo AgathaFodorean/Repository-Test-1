@@ -2,6 +2,4 @@
 
 A simple test.
 
-##Link to my live map
-
-<iframe src="https://agathafodorean.github.io/Repository-Test-1/"></iframe?
+Link to my live map : https://agathafodorean.github.io/Repository-Test-1/
