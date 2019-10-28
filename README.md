@@ -2,4 +2,6 @@
 
 A simple test.
 
+## Other Test
+
 Link to my live map : https://agathafodorean.github.io/Repository-Test-1/
